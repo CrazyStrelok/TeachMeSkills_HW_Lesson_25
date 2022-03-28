@@ -1,0 +1,52 @@
+.btn1{
+    width: 18%;
+    height: 34px;
+    position: absolute;
+    bottom: 0;
+    left: 20%;
+    top: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn2{
+    width: 18%;
+    height: 34px;
+    position: absolute;
+    bottom: 0;
+    right: 20%;
+    top: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn1:hover{
+    background-color: rgba(52,52,52,0.65);
+
+}
+.btn2:hover{
+    background-color: rgba(52,52,52,0.65);
+
+}
+
+.myInput{
+    width:570px;
+    height:90px;
+}
+.img1{
+float: left;
+}
+.img2{
+    float: right;
+}
+.myForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.name{
+    display: flex;
+    justify-content: center;
+}
